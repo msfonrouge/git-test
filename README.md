@@ -1,3 +1,3 @@
-# git-test-odin
+# git-test-TheOdinProject
 
 Hello Odin!
